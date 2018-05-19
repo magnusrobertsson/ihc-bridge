@@ -1,0 +1,35 @@
+apply plugin: 'java'
+apply plugin: 'maven-publish'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    compile "commons-lang:commons-lang:2.6"
+    compile "org.slf4j:slf4j-api:1.6.1"
+    runtime "org.slf4j:slf4j-log4j12:1.6.1"
+    testCompile "junit:junit:4.12"
+}
+
+group = 'org.openhab'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = 1.8
+
+//jar {
+//    baseName = 'ihc-client'
+//    version = '0.1.0-SNAPSHOT'
+//}
+
+publishing {
+    publications {
+        maven(MavenPublication) {
+            groupId 'org.openhab'
+            artifactId 'ihc-client'
+            version '1.0'
+
+            from components.java
+        }
+    }
+}

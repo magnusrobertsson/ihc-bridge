@@ -1,0 +1,3 @@
+rm -r ~/.homebridge/persist
+rm -r ~/.homebridge/accessories
+homebridge -D -P .

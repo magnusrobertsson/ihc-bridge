@@ -1,0 +1,478 @@
+0xaa5a = dataline_input -> Vardagsrum -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (höger övre)
+0xab5a = dataline_input -> Vardagsrum -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre)
+0xac5a = dataline_input -> Vardagsrum -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (höger övre mitten)
+0xad5a = dataline_input -> Vardagsrum -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre mitten)
+0xae5a = dataline_input -> Vardagsrum -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre mitten)
+0xaf5a = dataline_input -> Vardagsrum -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre mitten)
+0xb05a = dataline_input -> Vardagsrum -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre)
+0xb15a = dataline_input -> Vardagsrum -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre)
+0xbd5a = dataline_input -> Vardagsrum -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (höger övre)
+0xbe5a = dataline_input -> Vardagsrum -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre)
+0xbf5a = dataline_input -> Vardagsrum -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (höger övre mitten)
+0xc05a = dataline_input -> Vardagsrum -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre mitten)
+0xc15a = dataline_input -> Vardagsrum -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre mitten)
+0xc25a = dataline_input -> Vardagsrum -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre mitten)
+0xc35a = dataline_input -> Vardagsrum -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre)
+0xc45a = dataline_input -> Vardagsrum -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre)
+0x12b5a = dataline_input -> Vardagsrum ->  -> PIR Larm -> Larmdetektering
+0x945a = dataline_input -> Hall -> Vid hall -> Tryckknapp 5-pol med 3 LED -> PB (övre)
+0x955a = dataline_input -> Hall -> Vid hall -> Tryckknapp 5-pol med 3 LED -> PB (höger nedre mitten)
+0x965a = dataline_input -> Hall -> Vid hall -> Tryckknapp 5-pol med 3 LED -> PB (vänster nedre mitten)
+0x975a = dataline_input -> Hall -> Vid hall -> Tryckknapp 5-pol med 3 LED -> PB (höger nedre)
+0x985a = dataline_input -> Hall -> Vid hall -> Tryckknapp 5-pol med 3 LED -> PB (vänster nedre)
+0xe15a = dataline_input -> Kök -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (höger övre)
+0xe25a = dataline_input -> Kök -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre)
+0xe35a = dataline_input -> Kök -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (höger övre mitten)
+0xe45a = dataline_input -> Kök -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre mitten)
+0xe55a = dataline_input -> Kök -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre mitten)
+0xe65a = dataline_input -> Kök -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre mitten)
+0xe75a = dataline_input -> Kök -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre)
+0xe85a = dataline_input -> Kök -> Vid hall -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre)
+0xee5a = dataline_input -> Kök -> Vid dörr -> Tryckknapp 8-pol med 4 LED -> PB (höger övre)
+0xef5a = dataline_input -> Kök -> Vid dörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre)
+0xf05a = dataline_input -> Kök -> Vid dörr -> Tryckknapp 8-pol med 4 LED -> PB (höger övre mitten)
+0xf15a = dataline_input -> Kök -> Vid dörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre mitten)
+0xf25a = dataline_input -> Kök -> Vid dörr -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre mitten)
+0xf35a = dataline_input -> Kök -> Vid dörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre mitten)
+0xf45a = dataline_input -> Kök -> Vid dörr -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre)
+0xf55a = dataline_input -> Kök -> Vid dörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre)
+0x12d5a = dataline_input -> Kök ->  -> PIR Larm -> Larmdetektering
+0x13c5a = dataline_input -> Kök ->  -> Läckagedetektor -> Ingång
+0x6c5a = dataline_input -> Badrum ->  -> Tryckknapp 5-pol med 3 LED -> PB (övre)
+0x6d5a = dataline_input -> Badrum ->  -> Tryckknapp 5-pol med 3 LED -> PB (höger nedre mitten)
+0x6e5a = dataline_input -> Badrum ->  -> Tryckknapp 5-pol med 3 LED -> PB (vänster nedre mitten)
+0x6f5a = dataline_input -> Badrum ->  -> Tryckknapp 5-pol med 3 LED -> PB (höger nedre)
+0x705a = dataline_input -> Badrum ->  -> Tryckknapp 5-pol med 3 LED -> PB (vänster nedre)
+0x1255a = dataline_input -> Badrum ->  -> PIR Larm -> Larmdetektering
+0xfb5a = dataline_input -> Grovkök -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (höger övre)
+0xfc5a = dataline_input -> Grovkök -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre)
+0xfd5a = dataline_input -> Grovkök -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (höger övre mitten)
+0xfe5a = dataline_input -> Grovkök -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre mitten)
+0xff5a = dataline_input -> Grovkök -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre mitten)
+0x1005a = dataline_input -> Grovkök -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre mitten)
+0x1015a = dataline_input -> Grovkök -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre)
+0x1025a = dataline_input -> Grovkök -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre)
+0x12f5a = dataline_input -> Grovkök ->  -> PIR Larm -> Larmdetektering
+0x9d5a = dataline_input -> Entré -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (höger övre)
+0x9e5a = dataline_input -> Entré -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre)
+0x9f5a = dataline_input -> Entré -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (höger övre mitten)
+0xa05a = dataline_input -> Entré -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre mitten)
+0xa15a = dataline_input -> Entré -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre mitten)
+0xa25a = dataline_input -> Entré -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre mitten)
+0xa35a = dataline_input -> Entré -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre)
+0xa45a = dataline_input -> Entré -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre)
+0xf965a = dataline_input -> Utomhus ->  -> Skymningsrelä -> Skymning
+0xf985a = dataline_input -> Utomhus ->  -> PIR -> Närvarodetektering
+0x4d5a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (övre)
+0x4e5a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (höger nedre mitten)
+0x4f5a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (vänster nedre mitten)
+0x505a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (höger nedre)
+0x515a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (vänster nedre)
+0x565a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid altandörr -> Tryckknapp 5-pol med 3 LED -> PB (övre)
+0x575a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid altandörr -> Tryckknapp 5-pol med 3 LED -> PB (höger nedre mitten)
+0x585a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid altandörr -> Tryckknapp 5-pol med 3 LED -> PB (vänster nedre mitten)
+0x595a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid altandörr -> Tryckknapp 5-pol med 3 LED -> PB (höger nedre)
+0x5a5a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid altandörr -> Tryckknapp 5-pol med 3 LED -> PB (vänster nedre)
+0x5f5a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid säng -> Tryckknapp 8-pol med 4 LED -> PB (höger övre)
+0x605a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid säng -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre)
+0x615a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid säng -> Tryckknapp 8-pol med 4 LED -> PB (höger övre mitten)
+0x625a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid säng -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre mitten)
+0x635a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid säng -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre mitten)
+0x645a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid säng -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre mitten)
+0x655a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid säng -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre)
+0x665a = dataline_input -> Sovrum1 (Magnus, Lisa) -> Vid säng -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre)
+0x1135a = dataline_input -> Sovrum1 (Magnus, Lisa) ->  -> PIR Larm -> Larmdetektering
+0x755a = dataline_input -> Sovrum2 (Jacob) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (övre)
+0x765a = dataline_input -> Sovrum2 (Jacob) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (höger nedre mitten)
+0x775a = dataline_input -> Sovrum2 (Jacob) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (vänster nedre mitten)
+0x785a = dataline_input -> Sovrum2 (Jacob) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (höger nedre)
+0x795a = dataline_input -> Sovrum2 (Jacob) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (vänster nedre)
+0x1275a = dataline_input -> Sovrum2 (Jacob) ->  -> PIR Larm -> Larmdetektering
+0x7e5a = dataline_input -> Sovrum3 (Marcus) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (övre)
+0x7f5a = dataline_input -> Sovrum3 (Marcus) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (höger nedre mitten)
+0x805a = dataline_input -> Sovrum3 (Marcus) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (vänster nedre mitten)
+0x815a = dataline_input -> Sovrum3 (Marcus) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (höger nedre)
+0x825a = dataline_input -> Sovrum3 (Marcus) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (vänster nedre)
+0x1295a = dataline_input -> Sovrum3 (Marcus) ->  -> PIR Larm -> Larmdetektering
+0xcb5a = dataline_input -> Bibliotek -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (övre)
+0xcc5a = dataline_input -> Bibliotek -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (höger nedre mitten)
+0xcd5a = dataline_input -> Bibliotek -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (vänster nedre mitten)
+0xce5a = dataline_input -> Bibliotek -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (höger nedre)
+0xcf5a = dataline_input -> Bibliotek -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> PB (vänster nedre)
+0xd45a = dataline_input -> Bibliotek -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (höger övre)
+0xd55a = dataline_input -> Bibliotek -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre)
+0xd65a = dataline_input -> Bibliotek -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (höger övre mitten)
+0xd75a = dataline_input -> Bibliotek -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster övre mitten)
+0xd85a = dataline_input -> Bibliotek -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre mitten)
+0xd95a = dataline_input -> Bibliotek -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre mitten)
+0xda5a = dataline_input -> Bibliotek -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (höger nedre)
+0xdb5a = dataline_input -> Bibliotek -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> PB (vänster nedre)
+0x1315a = dataline_input -> Bibliotek ->  -> PIR Larm -> Larmdetektering
+0x10d5a = dataline_input -> Larm ->  -> Branddetektor -> Ingång
+0x1095a = dataline_input -> Larm ->  -> Kodförbikopplare -> Utgång 1
+0x10a5a = dataline_input -> Larm ->  -> Kodförbikopplare -> Utgång 2
+0x10b5a = dataline_input -> Larm ->  -> Kodförbikopplare -> Utgång 3
+0x1115a = dataline_input -> Larm ->  -> Sabotagekrets -> Ingång (NS)
+0x1365a = dataline_input -> Larm ->  -> Magnetkontakt -> Ingång
+0x1385a = dataline_input -> Larm ->  -> Magnetkontakt -> Ingång
+0x13a5a = dataline_input -> Larm ->  -> Magnetkontakt -> Ingång
+0x1345a = dataline_input -> Elcentral ->  -> Tryckknapp 1-pol -> PB
+0xb25b = dataline_output -> Vardagsrum -> Vid hall -> Tryckknapp 8-pol med 4 LED -> LED (övre)
+0xb35b = dataline_output -> Vardagsrum -> Vid hall -> Tryckknapp 8-pol med 4 LED -> LED (övre mitten)
+0xb45b = dataline_output -> Vardagsrum -> Vid hall -> Tryckknapp 8-pol med 4 LED -> LED (nedre mitten)
+0xb55b = dataline_output -> Vardagsrum -> Vid hall -> Tryckknapp 8-pol med 4 LED -> LED (nedre)
+0xc55b = dataline_output -> Vardagsrum -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> LED (övre)
+0xc65b = dataline_output -> Vardagsrum -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> LED (övre mitten)
+0xc75b = dataline_output -> Vardagsrum -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> LED (nedre mitten)
+0xc85b = dataline_output -> Vardagsrum -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> LED (nedre)
+0x16b5b = dataline_output -> Vardagsrum -> I fönster -> Belysning -> Utgång
+0x16e5b = dataline_output -> Vardagsrum ->  -> Uttag/anslutning -> Utgång
+0x1915b = dataline_output -> Vardagsrum ->  -> Utgångsmodul 1-10V -> Bit 1
+0x1925b = dataline_output -> Vardagsrum ->  -> Utgångsmodul 1-10V -> Bit 2
+0x1935b = dataline_output -> Vardagsrum ->  -> Utgångsmodul 1-10V -> Bit 3
+0x1945b = dataline_output -> Vardagsrum ->  -> Utgångsmodul 1-10V -> Bit 4
+0x1955b = dataline_output -> Vardagsrum ->  -> Utgångsmodul 1-10V -> Bit 5
+0x1965b = dataline_output -> Vardagsrum ->  -> Utgångsmodul 1-10V -> Bit 6
+0x1975b = dataline_output -> Vardagsrum ->  -> Utgångsmodul 1-10V -> Bit 7
+0x1985b = dataline_output -> Vardagsrum ->  -> Utgångsmodul 1-10V -> Bit 8
+0x995b = dataline_output -> Hall -> Vid hall -> Tryckknapp 5-pol med 3 LED -> LED (övre)
+0x9a5b = dataline_output -> Hall -> Vid hall -> Tryckknapp 5-pol med 3 LED -> LED (nedre mitten)
+0x9b5b = dataline_output -> Hall -> Vid hall -> Tryckknapp 5-pol med 3 LED -> LED (nedre)
+0x1745b = dataline_output -> Hall -> Vid sovrummen -> Siren intern -> Ljud 80 dB
+0x1755b = dataline_output -> Hall -> Vid sovrummen -> Siren intern -> Ljud 102 dB
+0x1a95b = dataline_output -> Hall -> I tak -> Dimmer (2-knapp, 2-minne) DIN -> Till / öka
+0x1aa5b = dataline_output -> Hall -> I tak -> Dimmer (2-knapp, 2-minne) DIN -> Från / minska
+0x1ab5b = dataline_output -> Hall -> I tak -> Dimmer (2-knapp, 2-minne) DIN -> Minne 1
+0x1ac5b = dataline_output -> Hall -> I tak -> Dimmer (2-knapp, 2-minne) DIN -> Minne 2
+0xe95b = dataline_output -> Kök -> Vid hall -> Tryckknapp 8-pol med 4 LED -> LED (övre)
+0xea5b = dataline_output -> Kök -> Vid hall -> Tryckknapp 8-pol med 4 LED -> LED (övre mitten)
+0xeb5b = dataline_output -> Kök -> Vid hall -> Tryckknapp 8-pol med 4 LED -> LED (nedre mitten)
+0xec5b = dataline_output -> Kök -> Vid hall -> Tryckknapp 8-pol med 4 LED -> LED (nedre)
+0xf65b = dataline_output -> Kök -> Vid dörr -> Tryckknapp 8-pol med 4 LED -> LED (övre)
+0xf75b = dataline_output -> Kök -> Vid dörr -> Tryckknapp 8-pol med 4 LED -> LED (övre mitten)
+0xf85b = dataline_output -> Kök -> Vid dörr -> Tryckknapp 8-pol med 4 LED -> LED (nedre mitten)
+0xf95b = dataline_output -> Kök -> Vid dörr -> Tryckknapp 8-pol med 4 LED -> LED (nedre)
+0x1715b = dataline_output -> Kök ->  -> Uttag/anslutning -> Utgång
+0x1885b = dataline_output -> Kök -> Under skåp -> Belysning -> Utgång
+0x19f5b = dataline_output -> Kök -> I tak ovanför kök -> Dimmer (2-knapp, 2-minne) DIN -> Till / öka
+0x1a05b = dataline_output -> Kök -> I tak ovanför kök -> Dimmer (2-knapp, 2-minne) DIN -> Från / minska
+0x1a15b = dataline_output -> Kök -> I tak ovanför kök -> Dimmer (2-knapp, 2-minne) DIN -> Minne 1
+0x1a25b = dataline_output -> Kök -> I tak ovanför kök -> Dimmer (2-knapp, 2-minne) DIN -> Minne 2
+0x1ae5b = dataline_output -> Kök -> I tak ovanför matplats -> Dimmer (2-knapp, 2-minne) DIN -> Till / öka
+0x1af5b = dataline_output -> Kök -> I tak ovanför matplats -> Dimmer (2-knapp, 2-minne) DIN -> Från / minska
+0x1b05b = dataline_output -> Kök -> I tak ovanför matplats -> Dimmer (2-knapp, 2-minne) DIN -> Minne 1
+0x1b15b = dataline_output -> Kök -> I tak ovanför matplats -> Dimmer (2-knapp, 2-minne) DIN -> Minne 2
+0x1b35b = dataline_output -> Kök -> I tak ovanför köksbänk -> Dimmer (2-knapp, 2-minne) DIN -> Till / öka
+0x1b45b = dataline_output -> Kök -> I tak ovanför köksbänk -> Dimmer (2-knapp, 2-minne) DIN -> Från / minska
+0x1b55b = dataline_output -> Kök -> I tak ovanför köksbänk -> Dimmer (2-knapp, 2-minne) DIN -> Minne 1
+0x1b65b = dataline_output -> Kök -> I tak ovanför köksbänk -> Dimmer (2-knapp, 2-minne) DIN -> Minne 2
+0x715b = dataline_output -> Badrum ->  -> Tryckknapp 5-pol med 3 LED -> LED (övre)
+0x725b = dataline_output -> Badrum ->  -> Tryckknapp 5-pol med 3 LED -> LED (nedre mitten)
+0x735b = dataline_output -> Badrum ->  -> Tryckknapp 5-pol med 3 LED -> LED (nedre)
+0x1475b = dataline_output -> Badrum -> Ovanför vask -> Belysning -> Utgång
+0x14a5b = dataline_output -> Badrum -> Vid badkar -> Uttag/anslutning -> Utgång
+0x19a5b = dataline_output -> Badrum ->  -> Dimmer (2-knapp, 2-minne) DIN -> Till / öka
+0x19b5b = dataline_output -> Badrum ->  -> Dimmer (2-knapp, 2-minne) DIN -> Från / minska
+0x19c5b = dataline_output -> Badrum ->  -> Dimmer (2-knapp, 2-minne) DIN -> Minne 1
+0x19d5b = dataline_output -> Badrum ->  -> Dimmer (2-knapp, 2-minne) DIN -> Minne 2
+0x1035b = dataline_output -> Grovkök -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> LED (övre)
+0x1045b = dataline_output -> Grovkök -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> LED (övre mitten)
+0x1055b = dataline_output -> Grovkök -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> LED (nedre mitten)
+0x1065b = dataline_output -> Grovkök -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> LED (nedre)
+0x17a5b = dataline_output -> Grovkök -> Skåpet under vinkyl -> Ventil NO -> Utgång NO
+0x1825b = dataline_output -> Grovkök -> I tak vid ytterdörr -> Belysning -> Utgång
+0x1855b = dataline_output -> Grovkök -> I tak vid fönster -> Belysning -> Utgång
+0xa55b = dataline_output -> Entré -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> LED (övre)
+0xa65b = dataline_output -> Entré -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> LED (övre mitten)
+0xa75b = dataline_output -> Entré -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> LED (nedre mitten)
+0xa85b = dataline_output -> Entré -> Vid ytterdörr -> Tryckknapp 8-pol med 4 LED -> LED (nedre)
+0x1e65b = dataline_output -> Entré -> Vid ytterdörr -> Summer för in och utgång samt vatternlarm -> Utgång
+0x1595b = dataline_output -> Utomhus -> Vid entré -> Belysning -> Utgång
+0x15c5b = dataline_output -> Utomhus -> Vid sovrum 1 -> Belysning -> Utgång
+0x15f5b = dataline_output -> Utomhus -> Vid vardagsrum -> Belysning -> Utgång
+0x1625b = dataline_output -> Utomhus -> Vid bibliotek -> Belysning -> Utgång
+0x1655b = dataline_output -> Utomhus -> Vid grovkök -> Belysning -> Utgång
+0x1685b = dataline_output -> Utomhus -> Under takutsprång baksida -> Belysning -> Utgång
+0x1775b = dataline_output -> Utomhus -> Vid gång -> Siren intern -> Ljud 80 dB
+0x1785b = dataline_output -> Utomhus -> Vid gång -> Siren intern -> Ljud 102 dB
+0x18b5b = dataline_output -> Utomhus -> Vid carport -> Belysning -> Utgång
+0x18e5b = dataline_output -> Utomhus -> Vid gång -> Belysning -> Utgång
+0x525b = dataline_output -> Sovrum1 (Magnus, Lisa) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> LED (övre)
+0x535b = dataline_output -> Sovrum1 (Magnus, Lisa) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> LED (nedre mitten)
+0x545b = dataline_output -> Sovrum1 (Magnus, Lisa) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> LED (nedre)
+0x5b5b = dataline_output -> Sovrum1 (Magnus, Lisa) -> Vid altandörr -> Tryckknapp 5-pol med 3 LED -> LED (övre)
+0x5c5b = dataline_output -> Sovrum1 (Magnus, Lisa) -> Vid altandörr -> Tryckknapp 5-pol med 3 LED -> LED (nedre mitten)
+0x5d5b = dataline_output -> Sovrum1 (Magnus, Lisa) -> Vid altandörr -> Tryckknapp 5-pol med 3 LED -> LED (nedre)
+0x675b = dataline_output -> Sovrum1 (Magnus, Lisa) -> Vid säng -> Tryckknapp 8-pol med 4 LED -> LED (övre)
+0x685b = dataline_output -> Sovrum1 (Magnus, Lisa) -> Vid säng -> Tryckknapp 8-pol med 4 LED -> LED (övre mitten)
+0x695b = dataline_output -> Sovrum1 (Magnus, Lisa) -> Vid säng -> Tryckknapp 8-pol med 4 LED -> LED (nedre mitten)
+0x6a5b = dataline_output -> Sovrum1 (Magnus, Lisa) -> Vid säng -> Tryckknapp 8-pol med 4 LED -> LED (nedre)
+0x1415b = dataline_output -> Sovrum1 (Magnus, Lisa) -> I tak -> Belysning -> Utgång
+0x1445b = dataline_output -> Sovrum1 (Magnus, Lisa) ->  -> Uttag/anslutning -> Utgång
+0x7a5b = dataline_output -> Sovrum2 (Jacob) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> LED (övre)
+0x7b5b = dataline_output -> Sovrum2 (Jacob) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> LED (nedre mitten)
+0x7c5b = dataline_output -> Sovrum2 (Jacob) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> LED (nedre)
+0x1505b = dataline_output -> Sovrum2 (Jacob) ->  -> Uttag/anslutning -> Utgång
+0x1565b = dataline_output -> Sovrum2 (Jacob) -> I tak -> Belysning -> Utgång
+0x835b = dataline_output -> Sovrum3 (Marcus) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> LED (övre)
+0x845b = dataline_output -> Sovrum3 (Marcus) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> LED (nedre mitten)
+0x855b = dataline_output -> Sovrum3 (Marcus) -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> LED (nedre)
+0x1535b = dataline_output -> Sovrum3 (Marcus) ->  -> Uttag/anslutning -> Utgång
+0x1a45b = dataline_output -> Sovrum3 (Marcus) -> I tak -> Dimmer (2-knapp, 2-minne) DIN -> Till / öka
+0x1a55b = dataline_output -> Sovrum3 (Marcus) -> I tak -> Dimmer (2-knapp, 2-minne) DIN -> Från / minska
+0x1a65b = dataline_output -> Sovrum3 (Marcus) -> I tak -> Dimmer (2-knapp, 2-minne) DIN -> Minne 1
+0x1a75b = dataline_output -> Sovrum3 (Marcus) -> I tak -> Dimmer (2-knapp, 2-minne) DIN -> Minne 2
+0xd05b = dataline_output -> Bibliotek -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> LED (övre)
+0xd15b = dataline_output -> Bibliotek -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> LED (nedre mitten)
+0xd25b = dataline_output -> Bibliotek -> Vid dörr -> Tryckknapp 5-pol med 3 LED -> LED (nedre)
+0xdc5b = dataline_output -> Bibliotek -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> LED (övre)
+0xdd5b = dataline_output -> Bibliotek -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> LED (övre mitten)
+0xde5b = dataline_output -> Bibliotek -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> LED (nedre mitten)
+0xdf5b = dataline_output -> Bibliotek -> Vid altandörr -> Tryckknapp 8-pol med 4 LED -> LED (nedre)
+0x17c5b = dataline_output -> Bibliotek -> I tak -> Belysning -> Utgång
+0x17f5b = dataline_output -> Bibliotek ->  -> Uttag/anslutning -> Utgång
+0x10e5b = dataline_output -> Larm ->  -> Branddetektor -> Matning
+0x1085b = dataline_output -> Larm ->  -> Kodförbikopplare -> Status
+0x1e05b = dataline_output -> Elcentral ->  -> LED alla knappar -> LED alla knappar
+0x1e35b = dataline_output -> Elcentral -> Under elskåp -> LED för indikering av utlöst larm -> Utgång
+0x10030a = resource_flag -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Intern variabel -> Flagga för timer växla
+0x10860a = resource_flag -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Flagga för timer växla
+0x11030a = resource_flag -> 1.1.01.a. Tänd / släck spots ovanför fönster ->  -> Intern variabel -> Flagga för timer växla
+0x13f50a = resource_flag -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Flagga för timer växla
+0x14740a = resource_flag -> 1.1.01.a. Tänd / släck spot under skåp ->  -> Intern variabel -> Flagga för timer växla
+0x19450a = resource_flag -> 1.2.01.b. Tänd / släck tak med växling ->  -> Intern variabel -> Tänt
+0xbbd0a = resource_flag -> 1.1.01.a. Tänd / släck belysning ovanför vask ->  -> Intern variabel -> Flagga för timer växla
+0x14f30a = resource_flag -> 1.1.01.a. Tänd / släck tvättstuga ->  -> Intern variabel -> Flagga för timer växla
+0x15760a = resource_flag -> 1.1.01.a. Tänd / släck ingång (används ej) ->  -> Intern variabel -> Flagga för timer växla
+0x15f50a = resource_flag -> 1.1.01.a. Växla, tänd, släck samt timer och WL-scenariefunktion ->  -> Intern variabel -> Flagga för timer växla
+0xea50a = resource_flag -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Intern variabel -> Flagga för timer växla
+0x2000a = resource_flag -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Intern variabel -> Flagga för timer växla
+0x2850a = resource_flag -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Flagga för timer växla
+0x30a0a = resource_flag -> 1.1.01.a. Tänd / släck tak ->  -> Intern variabel -> Flagga för timer växla
+0xc7e0a = resource_flag -> 1.1.01.a. Tänd / släck tak ->  -> Intern variabel -> Flagga för timer växla
+0xcfb0a = resource_flag -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Flagga för timer växla
+0xdca0a = resource_flag -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Flagga för timer växla
+0x1b060a = resource_flag -> 1.2.01.b. Tänd / släck tak med växling ->  -> Intern variabel -> Tänt
+0x11840a = resource_flag -> 1.1.01.a. Tänd / släck tak ->  -> Intern variabel -> Flagga för timer växla
+0x12050a = resource_flag -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Intern variabel -> Flagga för timer växla
+0x12880a = resource_flag -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Flagga för timer växla
+0x3e20a = resource_flag -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Intern variabel -> Sabotage kodförbikopplare för kodinmatning
+0x3e40a = resource_flag -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Intern variabel -> Flagga för larm aktiverat
+0x3e50a = resource_flag -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Intern variabel -> Flagga för larm i förbikopplarzon aktiv
+0x3ea0a = resource_flag -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Intern variabel -> Flagga för spärrad logg
+0x23ec0a = resource_flag -> Dygnsur med 5 st tidpunkter ->  -> Intern variabel -> Aktiv
+0xfb010 = resource_timer -> 1.2.07.a. Tänd / släck tak (mjukt) ->  -> Inställningar -> Timer för PIR
+0x100410 = resource_timer -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Intern variabel -> Timer för puls
+0x100510 = resource_timer -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Intern variabel -> Växla timer
+0x108710 = resource_timer -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Timer för puls
+0x108810 = resource_timer -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Växla timer
+0x110410 = resource_timer -> 1.1.01.a. Tänd / släck spots ovanför fönster ->  -> Intern variabel -> Timer för puls
+0x110510 = resource_timer -> 1.1.01.a. Tänd / släck spots ovanför fönster ->  -> Intern variabel -> Växla timer
+0x130c10 = resource_timer -> 1.2.01.a. Tänd / släck tak ->  -> Intern variabel -> Timer för återinkoppling av 230 utgång
+0x135810 = resource_timer -> 1.2.01.a. Tänd / släck belysning ovanför diskbänk ->  -> Intern variabel -> Timer för återinkoppling av 230 utgång
+0x13a810 = resource_timer -> 1.2.01.a. Tänd / släck belysning ovanför matplats ->  -> Intern variabel -> Timer för återinkoppling av 230 utgång
+0x13f610 = resource_timer -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Timer för puls
+0x13f710 = resource_timer -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Växla timer
+0x147510 = resource_timer -> 1.1.01.a. Tänd / släck spot under skåp ->  -> Intern variabel -> Timer för puls
+0x147610 = resource_timer -> 1.1.01.a. Tänd / släck spot under skåp ->  -> Intern variabel -> Växla timer
+0xb6e10 = resource_timer -> 1.2.01.b. Tänd / släck tak med växling ->  -> Intern variabel -> Timer för återinkoppling av 230 utgång
+0x196710 = resource_timer -> 1.2.01.b. Tänd / släck tak med växling ->  -> Intern variabel -> Timer för frånkoppling
+0x196a10 = resource_timer -> 1.2.01.b. Tänd / släck tak med växling ->  -> Intern variabel -> Timer för avgöra dimmning
+0xbbe10 = resource_timer -> 1.1.01.a. Tänd / släck belysning ovanför vask ->  -> Intern variabel -> Timer för puls
+0xbbf10 = resource_timer -> 1.1.01.a. Tänd / släck belysning ovanför vask ->  -> Intern variabel -> Växla timer
+0x14f410 = resource_timer -> 1.1.01.a. Tänd / släck tvättstuga ->  -> Intern variabel -> Timer för puls
+0x14f510 = resource_timer -> 1.1.01.a. Tänd / släck tvättstuga ->  -> Intern variabel -> Växla timer
+0x157710 = resource_timer -> 1.1.01.a. Tänd / släck ingång (används ej) ->  -> Intern variabel -> Timer för puls
+0x157810 = resource_timer -> 1.1.01.a. Tänd / släck ingång (används ej) ->  -> Intern variabel -> Växla timer
+0x15f610 = resource_timer -> 1.1.01.a. Växla, tänd, släck samt timer och WL-scenariefunktion ->  -> Intern variabel -> Timer för puls
+0x15f710 = resource_timer -> 1.1.01.a. Växla, tänd, släck samt timer och WL-scenariefunktion ->  -> Intern variabel -> Växla timer
+0x1bed10 = resource_timer -> 1.4.03. Belysningen tänds med PIR om skymningsrelä tillåter ->  -> Inställningar -> Timer för PIR
+0x1bee10 = resource_timer -> 1.4.03. Belysningen tänds med PIR om skymningsrelä tillåter ->  -> Inställningar -> Timer för blockering av tändfunktionen på PIR efter att belysningen släckts
+0xe4a10 = resource_timer -> 1.2.01.a. Tänd 7 släck tak ->  -> Intern variabel -> Timer för återinkoppling av 230 utgång
+0xea610 = resource_timer -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Intern variabel -> Timer för puls
+0xea710 = resource_timer -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Intern variabel -> Växla timer
+0xf5c10 = resource_timer -> 1.4.03. Tänd / släck ytterbelysning med PIR och knappar ->  -> Inställningar -> Timer för PIR
+0xf5d10 = resource_timer -> 1.4.03. Tänd / släck ytterbelysning med PIR och knappar ->  -> Inställningar -> Timer för blockering av tändfunktionen på PIR efter att belysningen släckts
+0x20110 = resource_timer -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Intern variabel -> Timer för puls
+0x20210 = resource_timer -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Intern variabel -> Växla timer
+0x28610 = resource_timer -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Timer för puls
+0x28710 = resource_timer -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Växla timer
+0x30b10 = resource_timer -> 1.1.01.a. Tänd / släck tak ->  -> Intern variabel -> Timer för puls
+0x30c10 = resource_timer -> 1.1.01.a. Tänd / släck tak ->  -> Intern variabel -> Växla timer
+0xc7f10 = resource_timer -> 1.1.01.a. Tänd / släck tak ->  -> Intern variabel -> Timer för puls
+0xc8010 = resource_timer -> 1.1.01.a. Tänd / släck tak ->  -> Intern variabel -> Växla timer
+0xcfc10 = resource_timer -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Timer för puls
+0xcfd10 = resource_timer -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Växla timer
+0xdcb10 = resource_timer -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Timer för puls
+0xdcc10 = resource_timer -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Växla timer
+0x1b0510 = resource_timer -> 1.2.01.b. Tänd / släck tak med växling ->  -> Intern variabel -> Timer för återinkoppling av 230 utgång
+0x1b0710 = resource_timer -> 1.2.01.b. Tänd / släck tak med växling ->  -> Intern variabel -> Timer för frånkoppling
+0x1b0810 = resource_timer -> 1.2.01.b. Tänd / släck tak med växling ->  -> Intern variabel -> Timer för avgöra dimmning
+0x118510 = resource_timer -> 1.1.01.a. Tänd / släck tak ->  -> Intern variabel -> Timer för puls
+0x118610 = resource_timer -> 1.1.01.a. Tänd / släck tak ->  -> Intern variabel -> Växla timer
+0x120610 = resource_timer -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Intern variabel -> Timer för puls
+0x120710 = resource_timer -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Intern variabel -> Växla timer
+0x128910 = resource_timer -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Timer för puls
+0x128a10 = resource_timer -> 1.1.01.a. Tänd / släck uttag ->  -> Intern variabel -> Växla timer
+0x3ce10 = resource_timer -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Timer för avstängning av utomhusljudgivare
+0x3cf10 = resource_timer -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Timer för avstängning av inomhusljudgivare
+0x3d010 = resource_timer -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Timer för stopp av blinkning med 230 V belysning
+0x3d110 = resource_timer -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Timer för fördröjning av modemavstängning
+0x3d210 = resource_timer -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Timer för avstängning av Utgång modem
+0x3d310 = resource_timer -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Timer för ingångstid i förbikopplarzon
+0x3d410 = resource_timer -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Timer för utgångstid i förbikopplarzon
+0x3e310 = resource_timer -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Intern variabel -> Blinktimer för 230 V belysning
+0x3e810 = resource_timer -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Intern variabel -> Blinktimer för lysdiod
+0x3e910 = resource_timer -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Intern variabel -> Paustimer för blinkning med diod
+0x3eb10 = resource_timer -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Intern variabel -> Timer ingång 1 kodförbikopplare
+0x3ec10 = resource_timer -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Intern variabel -> Timer ingång 2 kodförbikopplare
+0x3ed10 = resource_timer -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Intern variabel -> Timer-ingång 3 knappsats för kodinmatning
+0x3ee10 = resource_timer -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Intern variabel -> Starttimer till sabotageingång
+0x6b110 = resource_timer -> Villkor ->  -> %P >= %S -> Timer
+0x82010 = resource_timer -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Inställningar -> Timer för extern ljudgivare
+0x82110 = resource_timer -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Inställningar -> Timer för intern ljudgivare
+0x82210 = resource_timer -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Inställningar -> Timer för paus av röklarm
+0x82310 = resource_timer -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Inställningar -> Timer för paus av gaslarm
+0x82410 = resource_timer -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Inställningar -> Timer för paus av vattenlarm
+0x82610 = resource_timer -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Intern variabel -> Timer för indikering av återinkoppling av rök- och gaslarm
+0x82710 = resource_timer -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Intern variabel -> Timer för återställning av röklarm
+0x82810 = resource_timer -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Intern variabel -> Timer för uppstartande av röksensor efter återställning
+0x99110 = resource_timer -> 6.4.06. Ljudsignal (läckage) ->  -> Inställningar -> Timer prick
+0x99210 = resource_timer -> 6.4.06. Ljudsignal (läckage) ->  -> Inställningar -> Timer för streck
+0x99310 = resource_timer -> 6.4.06. Ljudsignal (läckage) ->  -> Inställningar -> Timertid för paus mellan prickar och streck
+0x99410 = resource_timer -> 6.4.06. Ljudsignal (läckage) ->  -> Inställningar -> Timertid för paus mellan bokstäver
+0x99510 = resource_timer -> 6.4.06. Ljudsignal (läckage) ->  -> Inställningar -> Timer för paus mellan ord
+0xacc10 = resource_timer -> 6.4.01. Sirén inne (rök & vatten) ->  -> Inställningar -> Timertid för ljud-/ljuspuls
+0xacd10 = resource_timer -> 6.4.01. Sirén inne (rök & vatten) ->  -> Inställningar -> Timertid för paus mellan pulser
+0xb4010 = resource_timer -> 6.4.01. Ljudsignal (in och utpassering) ->  -> Inställningar -> Timertid för ljud-/ljuspuls
+0xb4110 = resource_timer -> 6.4.01. Ljudsignal (in och utpassering) ->  -> Inställningar -> Timertid för paus mellan pulser
+0x1b6210 = resource_timer -> Släck allt och välkommen ->  -> Intern variabel -> Timer
+0x23a110 = resource_timer -> Dygnsur med 5 st tidpunkter ->  -> Intern variabel -> Pulstimer
+0x23ad10 = resource_timer -> 2.01.a. Dygnsur med 1 st tänd och släcktidpunkt ->  -> Intern variabel -> Timer för puls på utgång
+0x3e70c = resource_counter -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Intern variabel -> Räknare för antal blink med diod
+0x9960c = resource_counter -> 6.4.06. Ljudsignal (läckage) ->  -> Inställningar -> Räknare för programnr.
+0x9ae0c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0x9bb0c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0x9c80c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0x9d50c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0x9e20c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0x9ef0c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0x9fc0c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0xa090c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0xa160c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0xa230c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0xa300c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0xa3d0c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0xa4a0c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0xa570c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0xa640c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0xa710c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0xa7e0c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0xa8b0c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0xa980c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0xaa50c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0xab20c = resource_counter -> Villkor ->  -> %P = %S -> Räknare
+0x3df09 = resource_weekday -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Veckodag kod  5+6 aktiv
+0x3e009 = resource_weekday -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Veckodag kod 5+6 passiv
+0x3e60b = resource_integer -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Intern variabel -> Blinktal för PIR
+0x48d0b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x4990b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x4ac0b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x4b80b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x4cb0b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x4d70b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x4ea0b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x4f60b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5090b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5150b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5280b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5340b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5470b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5530b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5660b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5720b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5850b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5910b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5a40b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5b00b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5d00b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5dd0b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5ed0b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x5fa0b = resource_integer -> Kommandon vid villkor sanna ->  -> %P = %S -> Heltal
+0x24520d = resource_time -> 2.03.a. Uttag styrs av ur och skymningsrelä ->  -> Inställningar -> Släck-tidpunkt
+0x24530d = resource_time -> 2.03.a. Uttag styrs av ur och skymningsrelä ->  -> Inställningar -> Tändtidpunkt
+0x17120d = resource_time -> 2.03.a. Belysningen på baksidan styrs av ur och skymningsrelä ->  -> Inställningar -> Släck-tidpunkt
+0x17130d = resource_time -> 2.03.a. Belysningen på baksidan styrs av ur och skymningsrelä ->  -> Inställningar -> Tändtidpunkt
+0x178b0d = resource_time -> 2.03.a. Belysningen ute styrs av ur och skymningsrelä ->  -> Inställningar -> Släck-tidpunkt
+0x178c0d = resource_time -> 2.03.a. Belysningen ute styrs av ur och skymningsrelä ->  -> Inställningar -> Tändtidpunkt
+0x3cb0d = resource_time -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Utgång -> Larm startat klockan
+0x3d50d = resource_time -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Kod 2 aktiv
+0x3d60d = resource_time -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Kod 2 passiv
+0x3d70d = resource_time -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Kod 3 aktiv
+0x3d80d = resource_time -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Kod 3 passiv
+0x3d90d = resource_time -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Kod 4 aktiv
+0x3da0d = resource_time -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Kod 4 passiv
+0x3db0d = resource_time -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Kod 5 aktiv
+0x3dc0d = resource_time -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Kod 5 passiv
+0x3dd0d = resource_time -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Kod 6 aktiv
+0x3de0d = resource_time -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Inställningar -> Kod 6 passiv
+0x7e40d = resource_time -> Kommandon ->  -> %P = %S -> Tidpunkt
+0x8150d = resource_time -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Utgång -> Tidpunkt för sista röklarm
+0x8170d = resource_time -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Utgång -> Tidpunkt för sista gaslarm
+0x8190d = resource_time -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Utgång -> Tidpunkt för sista vattenlarm
+0x81b0d = resource_time -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Utgång -> Tidpunkt för sista nätfallet
+0x81d0d = resource_time -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Utgång -> Tidpunkt för sista nätförsörjning
+0x18810d = resource_time -> 2.03.a. Ledljus styrs av skymningsrelä ->  -> Inställningar -> Släck-tidpunkt
+0x18820d = resource_time -> 2.03.a. Ledljus styrs av skymningsrelä ->  -> Inställningar -> Tändtidpunkt
+0x23e60d = resource_time -> Dygnsur med 5 st tidpunkter ->  -> Inställningar -> Tidpunkt 1
+0x23e80d = resource_time -> Dygnsur med 5 st tidpunkter ->  -> Inställningar -> Tidpunkt 2
+0x240a0d = resource_time -> Dygnsur med 5 st tidpunkter ->  -> Inställningar -> Tidpunkt 3
+0x240b0d = resource_time -> Dygnsur med 5 st tidpunkter ->  -> Inställningar -> Tidpunkt 4
+0x24360d = resource_time -> Dygnsur med 5 st tidpunkter ->  -> Inställningar -> Tidpunkt 5
+0x23aa0d = resource_time -> 2.01.a. Dygnsur med 1 st tänd och släcktidpunkt ->  -> Inställningar -> Tänd-tidpunkt
+0x23ab0d = resource_time -> 2.01.a. Dygnsur med 1 st tänd och släcktidpunkt ->  -> Inställningar -> Släck-tidpunkt
+0x3cc0e = resource_date -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Utgång -> Larm startat datum
+0x7e60e = resource_date -> Kommandon ->  -> %P = %S -> Datum
+0x8160e = resource_date -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Utgång -> Datum för senaste röklarm
+0x8180e = resource_date -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Utgång -> Datum för sista gaslarm
+0x81a0e = resource_date -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Utgång -> Datum för sista vattenlarm
+0x81c0e = resource_date -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Utgång -> Datum för sista nätfall
+0x81e0e = resource_date -> 6.3.01. Larm för Rök-Gas-Vatten-El med loggfunktion ->  -> Utgång -> Datum för sista nätförsörjningen ok
+0xfff4a = resource_scene -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Utgång -> Scenarie
+0x10824a = resource_scene -> 1.1.01.a. Tänd / släck uttag ->  -> Utgång -> Scenarie
+0x10ff4a = resource_scene -> 1.1.01.a. Tänd / släck spots ovanför fönster ->  -> Utgång -> Scenarie
+0x13f14a = resource_scene -> 1.1.01.a. Tänd / släck uttag ->  -> Utgång -> Scenarie
+0x14704a = resource_scene -> 1.1.01.a. Tänd / släck spot under skåp ->  -> Utgång -> Scenarie
+0xbb94a = resource_scene -> 1.1.01.a. Tänd / släck belysning ovanför vask ->  -> Utgång -> Scenarie
+0x14ef4a = resource_scene -> 1.1.01.a. Tänd / släck tvättstuga ->  -> Utgång -> Scenarie
+0x15724a = resource_scene -> 1.1.01.a. Tänd / släck ingång (används ej) ->  -> Utgång -> Scenarie
+0x15f14a = resource_scene -> 1.1.01.a. Växla, tänd, släck samt timer och WL-scenariefunktion ->  -> Utgång -> Scenarie
+0xea14a = resource_scene -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Utgång -> Scenarie
+0x1fc4a = resource_scene -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Utgång -> Scenarie
+0x2814a = resource_scene -> 1.1.01.a. Tänd / släck uttag ->  -> Utgång -> Scenarie
+0x3064a = resource_scene -> 1.1.01.a. Tänd / släck tak ->  -> Utgång -> Scenarie
+0xc7a4a = resource_scene -> 1.1.01.a. Tänd / släck tak ->  -> Utgång -> Scenarie
+0xcf74a = resource_scene -> 1.1.01.a. Tänd / släck uttag ->  -> Utgång -> Scenarie
+0xdc64a = resource_scene -> 1.1.01.a. Tänd / släck uttag ->  -> Utgång -> Scenarie
+0x11804a = resource_scene -> 1.1.01.a. Tänd / släck tak ->  -> Utgång -> Scenarie
+0x12014a = resource_scene -> 1.1.01.a. Tänd / släck ytterbelysning ->  -> Utgång -> Scenarie
+0x12844a = resource_scene -> 1.1.01.a. Tänd / släck uttag ->  -> Utgång -> Scenarie
+0x3ca0f = resource_enum -> 6.2.01. Inbrottslarm med 10st PIR, skalskydd och förbikopplarzon samt förbikopplare ->  -> Utgång -> Larm startat via
+0x3fc0f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x4160f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x4400f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x4750f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x4880f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x4a70f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x4c60f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x4e50f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x5040f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x5230f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x5420f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x5610f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x5800f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x59f0f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x5cb0f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x5e80f = resource_enum -> Kommandon vid villkor sanna ->  -> %P = %S -> Enumerator
+0x7e20f = resource_enum -> Kommandon ->  -> %P = %S -> Enumerator
+

@@ -1,0 +1,24 @@
+{
+  "name": "homebridge-ihc",
+  "version": "0.0.1",
+  "description": "IHC platform plugin for homebridge: https://github.com/nfarina/homebridge",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin",
+    "IHC"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/magnusrobertsson/homebridge-ihc.git"
+  },
+  "bugs": {
+    "url": "http://github.com/magnusrobertsson/homebridge/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  }
+}
